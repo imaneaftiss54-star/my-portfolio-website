@@ -1,2 +1,11 @@
-# my-portfolio-website
-A simple portfolio website to showcase my projects and skills.
+# Portfolio Website
+
+This is my second project: a simple portfolio website.  
+
+Skills learned:
+- HTML basics
+- CSS styling
+- Structuring web content
+
+## How to view:
+Open `index.html` in a browser to see the website.
